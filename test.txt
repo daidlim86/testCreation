@@ -1,1 +1,2 @@
-today has good weather
+today has good weather, or bad weather
+i am not feeling well
