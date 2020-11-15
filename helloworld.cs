@@ -1,1 +1,2 @@
-Console.log("test");
+Console.WriteLine("test");
+Console.WriteLine("test2");
